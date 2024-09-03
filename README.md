@@ -1,3 +1,5 @@
+you can now download build that TheZoroForce240 forked it without doing anything
+
 # Friday Night Funkin' - Codename Engine (WIP)
 
 ## PLEASE NOTE - THIS IS STILL IN A BETA STATE
